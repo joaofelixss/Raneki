@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Produtos from '../componentes/Header';
-import Footer from '../componentes/Footer';
-import Produtos from '../componentes/Produtos';
+import Produtos from '../Componentes/Header';
+import Footer from '../Componentes/Footer';
+import Produtos from '../Componentes/Produtos';
 import Contato from '../Componentes/Contato';
 import Produto from '../Componentes/Produto';
 
