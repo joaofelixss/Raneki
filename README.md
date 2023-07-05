@@ -5,7 +5,7 @@ Raneki é uma aplicação Front-End web construída por min com conhecimentos ad
 A aplicação consiste em um site básico para conhecer seus produtos, onde as pessoas possam navegar o site de forma simples e prática.
 
 <div>
-  <img src="./img/tela_dogs.jpg">
+  <img src="./foto.jpg">
 </div>
 
 # Tecnologias utilizadas
